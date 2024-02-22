@@ -7,6 +7,6 @@ from gtts import gTTs
 from PIL import Image
 
 st.title("Interfaces Multimodales.")
-image = Image.open('INTELESTELAR.jpg)
+image = Image.open('INTELESTELAR.jpg')
 
  st.image(image, width=200)                 
